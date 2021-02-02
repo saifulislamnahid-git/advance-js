@@ -1,5 +1,5 @@
-// const name = "Saiful";
-let name = NaN;
+// const name = "";
+let name = '';
 if (name) {
     console.log('Condition is true');
 }else{
